@@ -11,5 +11,6 @@ public class Main {
 
 	private static void print() {
 		System.out.println("test1");
+		System.out.println("test3");
 	}
 }
