@@ -9,5 +9,6 @@ public class Data {
 	
 	public void print() {
 		System.out.println(data);
+		System.out.println("test3");
 	}
 }
